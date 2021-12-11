@@ -4,6 +4,6 @@
 
 ### Code works as below
 ### Producer
-![Producer](/Producer.png?raw=true)
+![Producer](/Producer.PNG?raw=true)
 ### Consumer
-![Consumer](/Consumer.png?raw=true)
+![Consumer](/Consumer.PNG?raw=true)
